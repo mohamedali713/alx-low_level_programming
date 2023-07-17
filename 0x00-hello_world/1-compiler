@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="rm *"
+gcc -c $CFILE -o ${CFILE%.c}.o
