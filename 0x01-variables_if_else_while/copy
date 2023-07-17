@@ -1,0 +1,4 @@
+#!/bin/bash
+
+read name
+cp 0-positive_or_negative.c ${name}
